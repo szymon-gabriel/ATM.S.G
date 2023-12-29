@@ -1,5 +1,3 @@
-# ATM.S.G
-
 <h1 align="center">ATM.S.G</h1>
 
 **ATM.S.G** A project on what I’m currently working on, free and open source ATM interface, if you have any questions or want to report a bug, please DM me.
@@ -8,11 +6,11 @@
 
 <hr>
 
-<img align="center" src="https://github.com/szymon-gabriel/notesS.G/assets/141585512/b40dde9e-603b-468e-9ce0-bdf92ddbc6fd"/>
+<im align="center" src=""/>
 <h3>
-<img align="center" src="https://github.com/szymon-gabriel/notesS.G/assets/141585512/b40dde9e-603b-468e-9ce0-bdf92ddbc6fd"/>
+<im align="center" src=""/>
 <h3>
-<img align="center" src="https://github.com/szymon-gabriel/notesS.G/assets/141585512/c83987b8-28bf-4d82-bb81-0cdb80c4dd57"/>
+<im align="center" src=""/>
 
 <h1>
 <h2 align="center">About me</h1>
